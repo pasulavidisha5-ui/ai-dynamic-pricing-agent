@@ -1,0 +1,18 @@
+# 🧠 AI Dynamic Pricing Agent
+
+This project predicts product prices using AI.
+
+## Features
+- Price prediction
+- Profit calculation
+- Graph visualization
+- Smart suggestions
+
+## Tech
+Python, Machine Learning, Streamlit
+
+## Run
+python model.py
+streamlit run app.py
+
+Built by Nikitha 🚀
